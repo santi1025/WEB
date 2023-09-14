@@ -1,0 +1,94 @@
+
+.fondo{
+
+   
+    background-color: #eaeaeadc;
+    background-size: cover;
+    height: 100vh;
+
+
+}
+
+
+/*.margen1{
+    background-color: red;
+    width: 348px;
+    padding: 3px;
+    margin-top: 28px;
+    margin-left: 608px;
+}
+
+.margen2{
+    background-color: blue;
+    width: 348px;
+    padding: 3px;
+    margin-top: 000;
+    margin-right: 000px;
+}
+
+    <div class="margen1"></div>
+    <div class="margen2"></div>
+*/
+
+
+.arriba-container{
+    font-family: 'Noto Sans Linear B', sans-serif;
+    width: 309px;
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+    padding: 22px;
+    margin-top: 1px;
+    margin-left: 827px;
+}
+
+
+
+
+.derecha-container{
+    font-family: 'Noto Sans Linear B', sans-serif;
+    width: 300px;
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+    padding: 44px;
+    margin-left: 1193px;
+    margin-top: -170px;
+}
+.izquierda-container{
+    font-family: 'Noto Sans Linear B', sans-serif;
+    width: 300px;
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+    padding: 40px;
+    margin-left: 429px;
+    margin-top: -280px;
+}
+
+.abajo-container{
+    font-family: 'Noto Sans Linear B', sans-serif;
+    width: 286px;
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+    padding: 37px;
+    margin-left: 823px;
+    margin-top: -72px;
+   
+
+}
+
+.foco{
+    position: relative;
+    left: 200px;
+}
+
+.supervisor{
+    position: relative;
+    left: 200px;
+}
+.calculador{
+    position: relative;
+    left: 200px;
+}
+.pared{
+    position: relative;
+    left: 210px;
+}
